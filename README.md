@@ -1,6 +1,5 @@
 # Python example code for the George B. Moody PhysioNet Challenge 2024
 
-documentation -> https://docs.google.com/document/d/1UHO-XrUH31omiO7a5nKoEXdMttr1MDgrl3qtNCwsqfw/edit
 
 ## What's in this repository?
 
